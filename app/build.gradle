@@ -30,10 +30,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     //Search View
-    compile 'com.miguelcatalan:materialsearchview:1.0.0'
-
-
-
+    api 'com.miguelcatalan:materialsearchview:1.0.0'
 
     //Play Services
     implementation 'com.google.android.gms:play-services-location:17.0.0'
