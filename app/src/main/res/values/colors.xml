@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    #F29910
+    <!--Top bar colors-->
+    <color name="morningSplash">#F29910</color>
+    <color name="morning">#F28E12</color>
+    <color name="afternoon">#138AF3</color>
+    <color name="night">#133A86</color>
+
+</resources>
